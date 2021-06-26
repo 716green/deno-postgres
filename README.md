@@ -12,7 +12,9 @@
 
 - Similar to TypeORM
 
-## Run `Port 3000`
+## Run
+
+- `Port 3000`
 
 ```bash
 sh run.sh
